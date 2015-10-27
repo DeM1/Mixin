@@ -1,0 +1,6 @@
+D:\MixinExample\MixinExample\bin\Debug\MixinExample.exe.config
+D:\MixinExample\MixinExample\bin\Debug\MixinExample.exe
+D:\MixinExample\MixinExample\bin\Debug\MixinExample.pdb
+D:\MixinExample\MixinExample\obj\Debug\MixinExample.csprojResolveAssemblyReference.cache
+D:\MixinExample\MixinExample\obj\Debug\MixinExample.exe
+D:\MixinExample\MixinExample\obj\Debug\MixinExample.pdb
